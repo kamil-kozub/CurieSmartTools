@@ -11,4 +11,4 @@
 8. Możesz przesłać wyeksportowaną talię koledze
 
 ## Importowanie otrzymanych talii
-1. Pobierz talię z plików kursu ()
+1. Pobierz talię z plików kursu ([Insulina_Example.apkg])
