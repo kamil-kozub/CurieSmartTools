@@ -21,11 +21,15 @@
 
 ## Ponowne importowanie talii ze zmianami
 1. Pobierz kolejną talię z plików kursu ([Insulina_Example_2.apkg](Insulina_Example_2.apkg))
+2. Zaimportuj ją, klikając podwójnie na plik w folderze
+3. Upewnij się, że jest zaznaczona odpowiednia opcja aktualizacji zmodyfikowanych fiszek
+4. Kliknij przycisk **Importuj**
+5. Zwróć uwagę, że jedna fiszka została dodana, a jedna fiszka zmieniona
 
 ## Importowanie talii z Shared Decks
 1. W głównym oknie programu kliknij przycisk **Pobierz gotową** na belce dolnej
 2. Wyszukaj talie dotyczące fizjologii
 3. Wybierz jedną z nich (np. [FIZJOLOGIA WUM KASIA](https://ankiweb.net/shared/info/2090870864))
-4. Pobierz talię, klikając przycisk Download
+4. Pobierz talię, klikając przycisk **Download**
 5. Zaimportuj talię do swojej kolekcji
 
