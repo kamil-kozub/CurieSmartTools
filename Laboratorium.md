@@ -171,3 +171,61 @@ Na koniec poznasz również, jak synchronizować swoją kolekcję, aby zachować
 
 1. Kliknij przycisk **Synchronizuj**.
 2. Jeśli pojawi się komunikat, wybierz opcję **Wysyłania z kopii lokalnej do chmurowej**.
+
+# Współpraca podczas tworzenia kart
+
+## Eksportowanie swojej talii kart
+1. Uruchom program Anki 
+2. Najedź na swoją talię kart
+3. Kliknij przycisk koła zębatego
+4. Wybierz Eksportuj
+5. Upewnij się, że eksportujesz talię, a nie całą kolekcję 
+6. Upewnij się, że eksportujesz talię razem z plikami (obrazami, dźwiękami itp.)
+7. Kliknij Eksportuj i wybierz miejsce, w którym ma zostać zapisana wyeksportowana talia
+8. Możesz przesłać wyeksportowaną talię koledze
+
+## Importowanie otrzymanych talii
+1. Pobierz talię z plików kursu ([Insulina_Example.apkg](Insulina_Example.apkg))
+2. W głównym oknie programu na dolnej belce odnajdź i kliknij przycisk **Importuj plik**
+3. Wybierz plik talii
+4. Upewnij się, że nie importujesz talii razem z cudzymi opcjami powtórek
+5. Kliknij przycisk Importuj
+6. Uruchom przeglądarkę kart
+7. Przejrzyj zaimportowane fiszki
+
+## Ponowne importowanie talii ze zmianami
+1. Pobierz kolejną talię z plików kursu ([Insulina_Example_2.apkg](Insulina_Example_2.apkg))
+2. Zaimportuj ją, klikając podwójnie na plik w folderze
+3. Upewnij się, że jest zaznaczona odpowiednia opcja aktualizacji zmodyfikowanych fiszek
+4. Kliknij przycisk **Importuj**
+5. Zwróć uwagę, że jedna fiszka została dodana, a jedna fiszka zmieniona
+
+## Importowanie talii z Shared Decks
+1. W głównym oknie programu kliknij przycisk **Pobierz gotową** na belce dolnej
+2. Wyszukaj talie dotyczące fizjologii
+3. Wybierz jedną z nich (np. [FIZJOLOGIA WUM KASIA](https://ankiweb.net/shared/info/2090870864))
+4. Pobierz talię, klikając przycisk **Download**
+5. Zaimportuj talię do swojej kolekcji
+
+# Edytowanie opcji programu
+
+## Dostosowanie podstawowych opcji powtórek
+
+1. Najedź na talię.
+2. Kliknij ikonę **Koła zębatego**.
+3. Wejdź w **Opcje**.
+4. Przejdź do sekcji **Nowe karty**.
+5. Dostosuj kroki nauki (ang. learning steps). Sugerowane: 15m 1h 8h 1d 3d
+6. Dostosuj przerwę dla kart po nauce. Sugerowane: 5d
+7. Dostosuj przerwę dla łatwych. Sugerowane 7d
+8. Kliknij przycisk **Zapisz**.
+
+## Tworzenie presetu podstawowych opcji powtórek
+
+1. Ponownie uruchom **Opcje talii**.
+2. Rozwiń menu obok przycisku **Zapisz**.
+3. Kliknij przycisk **Dodaj opcję**.
+4. Wpisz nazwę presetu (np. _Gęsta_).
+5. Ustaw gęstsze kroki nauki niż poprzednio. Sugerowane: 5m 15m 45m 90m 3h 8h 1d 3d → 5d, 7d
+6. Kliknij przycisk **Zapisz**.
+7. Zamknij okno **Opcji**, wracając do okna głównego.
