@@ -8,7 +8,7 @@
 
 ## Rejestracja konta
 
-> [!info] Czy potrzebujesz konta AnkiWeb do korzystania z Anki?
+> [!caution] Czy potrzebujesz konta AnkiWeb do korzystania z Anki?
 > Konto AnkiWeb nie jest konieczne do korzystania z programu Anki. Wszystkie funkcje, takie jak tworzenie, edycja i przeglądanie kart, są dostępne lokalnie, bez potrzeby rejestracji czy dostępu do Internetu.
 >
 > **Zalety korzystania z AnkiWeb:**
@@ -40,7 +40,7 @@
 
 1. Najedź na utworzoną talię.
 2. Kliknij ikonę **koła zębatego**.
-3. Wybierz opcję **Zmień nazwę**.![[Pasted image 20250104002432.png]]
+3. Wybierz opcję **Zmień nazwę**.![](Pasted image 20250104002432.png)
 4. Wpisz nową nazwę talii (np. _Stolice świata_).![[Pasted image 20250104002503.png]]
 
 ## Dodawanie pierwszej notatki typu podstawowego
