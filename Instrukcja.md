@@ -32,7 +32,7 @@
 > [!info] Co to jest talia kart w Anki?  
 > **Talia kart** (ang. *deck*) to zbiór fiszek w programie Anki, które służą do nauki w systemie powtórek rozłożonych w czasie. Możesz organizować talie według tematów, przedmiotów lub innych kategorii, dostosowując je do swoich potrzeb edukacyjnych.
 
-1. Kliknij przycisk **Utwórz talię** na dolnej belce głównego okna programu ![[Pasted image 20250104002052.png]]
+1. Kliknij przycisk **Utwórz talię** na dolnej belce głównego okna programu ![Przykładowy obraz](Pasted image 20250104002052.png)
 2. W wyświetlonym polu wpisz nazwę nowej talii (np. _Moja pierwsza talia_).![[Pasted image 20250104002143.png]]
 3. Kliknij przycisk **OK**.
 
