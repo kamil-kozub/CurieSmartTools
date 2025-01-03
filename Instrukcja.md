@@ -1,44 +1,23 @@
 # Wprowadzenie do obsługi programu Anki
-## Podsumowanie lekcji
 
-W tej lekcji omówimy podstawowe funkcje programu Anki, które umożliwią efektywne rozpoczęcie pracy z aplikacją. Konkretne tematy obejmują:
-
-1. **Instalację i konfigurację programu**, w tym rejestrację konta i synchronizację kolekcji.
-    
-2. **Tworzenie i zarządzanie taliami**, w tym zmienianie ich nazw.
-    
-3. **Dodawanie różnych typów fiszek**, takich jak:
-    
-    - Fiszki typu podstawowego (**Basic**).
-        
-    - Fiszki z możliwością wpisania odpowiedzi (**Basic (type in the answer)**).
-        
-    - Fiszki z obrazami i dźwiękami.
-        
-    - Fiszki typu uzupełnianie luk (**Cloze**).
-        
-    - Fiszki z zamaskowanymi obrazami (**Image Occlusion**).
-        
-4. **Opcje nauki**, takie jak:
-    
-    - Uczenie się nowych kart.
-        
-    - Korzystanie z trybu nauki własnej.
-        
-    - Dostosowanie ustawień powtórek.
-        
-5. **Edytowanie kart**, zarówno podczas przeglądania, jak i nauki.
-    
-
-Na koniec poznasz również, jak synchronizować swoją kolekcję, aby zachować dostęp do fiszek na różnych urządzeniach. Lekcja ma na celu ułatwienie Ci korzystania z Anki oraz maksymalizację efektywności nauki.
-
-## Start
+## Start!
 
 1. Zainstaluj program ([https://apps.ankiweb.net/](https://apps.ankiweb.net/)).
 2. Uruchom program.
 3. Ustaw język programu.
 
-## Załóż konto i uruchom synchronizację
+## Rejestracja konta
+
+> [!info] Czy potrzebujesz konta AnkiWeb do korzystania z Anki?
+> Konto AnkiWeb nie jest konieczne do korzystania z programu Anki. Wszystkie funkcje, takie jak tworzenie, edycja i przeglądanie kart, są dostępne lokalnie, bez potrzeby rejestracji czy dostępu do Internetu.
+>
+> **Zalety korzystania z AnkiWeb:**
+> - **Synchronizacja między urządzeniami:** Dzięki AnkiWeb możesz łatwo synchronizować swoje talie i postępy nauki między komputerem, telefonem i tabletem.
+> - **Kopia zapasowa:** AnkiWeb automatycznie przechowuje Twoje dane w chmurze, co zabezpiecza je na wypadek awarii sprzętu.
+> - **Dostęp przez przeglądarkę:** Możesz powtarzać swoje karty w dowolnym miejscu, korzystając z przeglądarki internetowej, nawet jeśli nie masz dostępu do urządzenia z zainstalowaną aplikacją.
+>
+> **Podsumowanie:**
+> Jeśli używasz Anki tylko na jednym urządzeniu i regularnie tworzysz lokalne kopie zapasowe, konto AnkiWeb nie jest Ci potrzebne. Jeśli jednak chcesz synchronizować dane między urządzeniami lub mieć pewność, że Twoje talie są bezpieczne, warto je założyć.
 
 1. Wejdź w menu **Narzędzia** na górze okna programu, następnie wybierz **Ustawienia → Synchronizacja** (skrót klawiszowy: **Alt+N** i **S**).
 2. Kliknij przycisk **Zaloguj się**, a następnie przycisk **Zarejestruj konto** znajdujący się w tym samym oknie.
@@ -48,19 +27,21 @@ Na koniec poznasz również, jak synchronizować swoją kolekcję, aby zachować
 6. Wróć do programu Anki, wpisz adres e-mail i hasło, a następnie kliknij przycisk **Zaloguj się** (skrót klawiszowy: **Tab** i **Enter**).
 7. Po zalogowaniu program automatycznie uruchomi synchronizację. Możesz zobaczyć pasek postępu w prawym górnym rogu okna programu (skrót klawiszowy: **Y** do ręcznej synchronizacji). Możesz zobaczyć pasek postępu w prawym górnym rogu okna programu.
 
-## Tworzenie talii
+## Utwórz pierwszą talię 
 
-1. W głównym oknie programu kliknij przycisk **Talie** (skrót klawiszowy: **Ctrl+T**).
-2. Kliknij przycisk **Utwórz talię**, który znajdziesz na dolnej belce (skrót klawiszowy: **A**).
-3. W wyświetlonym oknie dialogowym wpisz nazwę nowej talii (np. _Moja pierwsza talia_).
-4. Kliknij przycisk **OK**, aby potwierdzić i utworzyć talię (skrót klawiszowy: **Enter**).
+> [!info] Co to jest talia kart w Anki?  
+> **Talia kart** (ang. *deck*) to zbiór fiszek w programie Anki, które służą do nauki w systemie powtórek rozłożonych w czasie. Możesz organizować talie według tematów, przedmiotów lub innych kategorii, dostosowując je do swoich potrzeb edukacyjnych.
 
-## Zmiana nazw talii
+1. Kliknij przycisk **Utwórz talię** na dolnej belce głównego okna programu ![[Pasted image 20250104002052.png]]
+2. W wyświetlonym polu wpisz nazwę nowej talii (np. _Moja pierwsza talia_).![[Pasted image 20250104002143.png]]
+3. Kliknij przycisk **OK**.
 
-1. Najedź na swoją talię.
+## Zmień nazwę talii
+
+1. Najedź na utworzoną talię.
 2. Kliknij ikonę **koła zębatego**.
-3. Wybierz opcję **Zmień nazwę**.
-4. Wpisz nową nazwę talii (np. _Moja pierwsza talia 2_).
+3. Wybierz opcję **Zmień nazwę**.![[Pasted image 20250104002432.png]]
+4. Wpisz nową nazwę talii (np. _Stolice świata_).![[Pasted image 20250104002503.png]]
 
 ## Dodawanie pierwszej notatki typu podstawowego
 
