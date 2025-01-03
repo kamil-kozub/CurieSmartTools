@@ -23,6 +23,7 @@
 1. Pobierz kolejną talię z plików kursu ([Insulina_Example_2.apkg](Insulina_Example_2.apkg))
 2. Zaimportuj ją, klikając podwójnie na plik w folderze
 3. Upewnij się, że jest zaznaczona odpowiednia opcja aktualizacji zmodyfikowanych fiszek
+4. Dodaj etykietę do zmodyfikowanych fiszek (np. "Zmodyfikowana")
 4. Kliknij przycisk **Importuj**
 5. Zwróć uwagę, że jedna fiszka została dodana, a jedna fiszka zmieniona
 
